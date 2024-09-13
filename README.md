@@ -1,3 +1,6 @@
+me excuso por enviar el proyecto con este link espero puedan ver el codigo no me dio el tiempo para arreglar todos lo errores que me surgieron con la importacion de las dependencias
+igual espero tener una oportunidad y que puedan ver el codigo gracias!!
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
